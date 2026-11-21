@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OdontoStudy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#" aria-label="OdontoStudy início">
+      <span class="brand-mark">O</span>
+      <span>Odonto<span>Study</span></span>
+    </a>
+
+    <nav class="main-nav" aria-label="Navegação principal">
+      <button class="nav-item active" data-view="dashboard">
+        <span class="nav-icon">⌂</span><span>Visão geral</span>
+      </button>
+      <button class="nav-item" data-view="study">
+        <span class="nav-icon">▤</span><span>Estudar</span>
+      </button>
+      <button class="nav-item" data-view="quiz">
+        <span class="nav-icon">✓</span><span>Simulado</span>
+      </button>
+      <button class="nav-item" data-view="sources">
+        <span class="nav-icon">▱</span><span>Materiais</span>
+      </button>
+    </nav>
+
+    <div class="progress-card">
+      <div class="progress-ring" id="progress-ring">
+        <strong id="progress-percent">0%</strong>
+      </div>
+      <div>
+        <span>Progresso geral</span>
+        <strong id="answered-count">0 de 100 respondidas</strong>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow" id="today-label"></p>
+        <h1 id="page-title">Bom estudo!</h1>
+      </div>
+      <div class="header-actions">
+        <button class="icon-button" id="theme-button" aria-label="Alternar tema">☾</button>
+        <div class="avatar">RC</div>
+      </div>
+    </header>
+
+    <section id="view-root"></section>
+  </main>
+
+  <script src="data/study-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
