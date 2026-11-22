@@ -1,4 +1,4 @@
-﻿window.STUDY_DATA = {
+window.STUDY_DATA = {
   "source": "Resumo-Organizado-Simulado-Odontologia.docx",
   "topics": [
     {
@@ -133,7 +133,7 @@
         "Slide 7: 90% das glândulas maiores; parótida mais aquosa (eletrólitos + amilase); submandibular/sublingual mais mucosas (eletrólitos + mucopolissacarídeos). Componentes: potássio, cloreto de sódio, bicarbonato, cálcio, magnésio, fosfato, ureia, proteínas, amônia, ácido úrico, lisozima, glicose, IgA, amilase, colesterol. Depois de secretada: células descamadas, restos alimentares, leucócitos, anticorpos. 99,5% água e 0,25% matéria orgânica [slide 7].",
         "Fluxo: média 1.200 mL/24 h; carrega bactérias; ação mecânica. Redução noturna → mais atenção à higiene. Xerostomia → mais MOs.",
         "Velocidade: NORMAL 1–2 mL/min | DIMINUÍDA <0,7 | XEROSTOMIA <0,1. Causas: medicamentos, autoimunes, radioterapia de cabeça/pescoço, diabetes, ansiedade e depressão.",
-        "Tampão: pH perto do neutro (6,3–7,3 no slide 7; 6,7–7,3 no de erosão); mantém 6,9–7,0 por mucinato/mucina. Anidrase carbônica: CO2 + H2O → HCO3. Baixo fluxo + baixo tampão → infecções da mucosa e periodontite. Fator de resistência à cárie.",
+        "Tampão: pH perto do neutro (6,3–7,3 no slide 7; 6,7–7,3 no de erosão); mantém 6,9–7,0 por mucinato/mucina. Anidrase carbônica: CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻. Baixo fluxo + baixo tampão → infecções da mucosa e periodontite. Fator de resistência à cárie.",
         "Antimicrobianos: lisozima (4–6 mg/100 mL; liga-se ao peptideoglicano → lise); lactoperoxidase (oxida tiocianato; com H2O2 forma hipotiocianato); lactoferrina (liga ferro); mucinas (20–30% das proteínas; MG1 = camada viscosa que retém MOs; MG2 = liga-se a MOs e agrega).",
         "Controle da microbiota: boca = sistema aberto; MO precisa aderir; remoção por alimentação, saliva, escovação. Acidúricos (sobrevivem pH <5,5); acidogênicos (fermentam carboidratos → ácidos); proteolíticos (usam proteínas).",
         "Potencial patogênico: lesar local; disseminar a vizinhos; lesar à distância por bacteriemia ou produtos na circulação linfática/sanguínea.",
@@ -503,7 +503,7 @@
       "id": "tema-reparo",
       "title": "Cárie, doenças sistêmicas e reparo tecidual",
       "content": [
-        "Cárie dentária é uma doença infectocontagiosa, crônica e multifatorial, mediada pelo biofilme: microrganismos fermentam carboidratos e produzem ácidos que deslocam o equilíbrio entre desmineralização e remineralização.",
+        "Cárie dentária é uma doença crônica e multifatorial, mediada pelo biofilme e influenciada pela exposição a açúcares: microrganismos fermentam carboidratos e produzem ácidos que deslocam o equilíbrio entre desmineralização e remineralização.",
         "Os fatores clássicos da cárie são hospedeiro, dieta/substrato, microrganismos e tempo. A saliva participa como fator protetor por meio do tamponamento, fluxo, limpeza e fornecimento de minerais.",
         "Doenças sistêmicas podem alterar o reparo tecidual por meio de vascularização reduzida, deficiência imunológica, desnutrição, hipoxia, alteração metabólica ou uso de medicamentos.",
         "Diabetes mellitus mal controlado dificulta a cicatrização, aumenta o risco de infecção e prejudica a resposta inflamatória e a angiogênese.",
@@ -761,7 +761,7 @@
     },
     {
       "id": "base-7",
-      "prompt": "Via de infecção cruzada NÃO citada:",
+      "prompt": "Qual alternativa descreve uma via de infecção cruzada apresentada no material?",
       "options": [
         {
           "key": "A",
@@ -769,24 +769,24 @@
         },
         {
           "key": "B",
-          "text": "Profissional → paciente"
+          "text": "Animal → paciente"
         },
         {
           "key": "C",
-          "text": "Paciente → paciente via profissional"
+          "text": "Solo → profissional"
         },
         {
           "key": "D",
-          "text": "Paciente → paciente via locais/equipamentos/pisos"
+          "text": "Alimento → equipamento"
         },
         {
           "key": "E",
-          "text": "Animal → paciente"
+          "text": "Paciente → ambiente sem contato"
         }
       ],
       "number": 7,
-      "answer": "E",
-      "explanation": "Animal → paciente não está nas vias citadas.",
+      "answer": "A",
+      "explanation": "Uma das vias listadas é paciente → profissional; também são descritas as transmissões entre pacientes por profissional ou por superfícies e equipamentos.",
       "topicId": "tema-1",
       "difficulty": "intermediario",
       "sourceId": "base"
@@ -1241,7 +1241,7 @@
     },
     {
       "id": "base-22",
-      "prompt": "Cada indivíduo carrega cerca de:",
+      "prompt": "Segundo o resumo, quantas espécies cada indivíduo pode carregar aproximadamente?",
       "options": [
         {
           "key": "A",
@@ -1253,7 +1253,7 @@
         },
         {
           "key": "C",
-          "text": "700 espécies"
+          "text": "700 espécies na boca toda"
         },
         {
           "key": "D",
@@ -1265,8 +1265,8 @@
         }
       ],
       "number": 22,
-      "answer": "C",
-      "explanation": "Cerca de 700 espécies.",
+      "answer": "B",
+      "explanation": "O resumo indica cerca de 150–200 espécies por indivíduo; a estimativa de 500–700 refere-se ao conjunto de espécies da cavidade bucal.",
       "topicId": "tema-2",
       "difficulty": "basico",
       "sourceId": "base"
@@ -2169,7 +2169,7 @@
     },
     {
       "id": "base-51",
-      "prompt": "Fluxo normal / diminuído / xerostomia (mL/min):",
+      "prompt": "Segundo os valores apresentados no material, quais são as faixas de fluxo normal, diminuído e de xerostomia (mL/min)?",
       "options": [
         {
           "key": "A",
@@ -2194,7 +2194,7 @@
       ],
       "number": 51,
       "answer": "A",
-      "explanation": "1–2 / <0,7 / <0,1.",
+      "explanation": "O material lista 1–2, abaixo de 0,7 e abaixo de 0,1 mL/min, respectivamente. Os valores devem ser interpretados conforme o protocolo de coleta e estimulação.",
       "topicId": "tema-3",
       "difficulty": "intermediario",
       "sourceId": "base"
@@ -2233,11 +2233,11 @@
     },
     {
       "id": "base-53",
-      "prompt": "Anidrase carbônica catalisa:",
+      "prompt": "Qual reação global é catalisada pela anidrase carbônica na formação de bicarbonato?",
       "options": [
         {
           "key": "A",
-          "text": "CO2 + H2O → HCO3"
+          "text": "CO₂ + H₂O ⇌ H⁺ + HCO₃⁻"
         },
         {
           "key": "B",
@@ -2258,14 +2258,14 @@
       ],
       "number": 53,
       "answer": "A",
-      "explanation": "CO2+H2O → HCO3.",
+      "explanation": "A enzima catalisa a hidratação reversível do CO₂; o ácido carbônico formado se dissocia em H⁺ e HCO₃⁻.",
       "topicId": "tema-3",
       "difficulty": "intermediario",
       "sourceId": "base"
     },
     {
       "id": "base-54",
-      "prompt": "Lisozima age ligando-se a:",
+      "prompt": "A lisozima salivar atua principalmente sobre:",
       "options": [
         {
           "key": "A",
@@ -2290,7 +2290,7 @@
       ],
       "number": 54,
       "answer": "B",
-      "explanation": "Peptideoglicano.",
+      "explanation": "A lisozima degrada o peptideoglicano da parede bacteriana, contribuindo para a lise.",
       "topicId": "tema-3",
       "difficulty": "intermediario",
       "sourceId": "base"
@@ -2585,7 +2585,7 @@
     },
     {
       "id": "base-64",
-      "prompt": "Ácido lático é produzido por:",
+      "prompt": "Qual microrganismo produz ácido lático ao fermentar açúcares, conforme o material?",
       "options": [
         {
           "key": "A",
@@ -2610,8 +2610,8 @@
       ],
       "number": 64,
       "answer": "B",
-      "explanation": "S. mutans.",
-      "topicId": "tema-4",
+      "explanation": "O material associa a fermentação de açúcares por S. mutans à produção de ácido lático.",
+      "topicId": "tema-carie",
       "difficulty": "intermediario",
       "sourceId": "base"
     },
@@ -2681,7 +2681,7 @@
     },
     {
       "id": "base-67",
-      "prompt": "Função da polpa NÃO citada:",
+      "prompt": "Qual das alternativas NÃO é uma função da polpa dentária?",
       "options": [
         {
           "key": "A",
@@ -2701,12 +2701,12 @@
         },
         {
           "key": "E",
-          "text": "Todas citadas exceto D"
+          "text": "Produzir saliva"
         }
       ],
       "number": 67,
       "answer": "D",
-      "explanation": "Produzir esmalte não é função da polpa.",
+      "explanation": "A polpa participa da formação e nutrição da dentina, da defesa e da sensibilidade; não produz esmalte.",
       "topicId": "tema-6",
       "difficulty": "intermediario",
       "sourceId": "base"
@@ -2905,7 +2905,7 @@
     },
     {
       "id": "base-74",
-      "prompt": "Gengivoestomatite herpética primária ocorre em:",
+      "prompt": "Segundo o resumo da disciplina, que parcela das infecções primárias por herpes se manifesta como gengivoestomatite?",
       "options": [
         {
           "key": "A",
@@ -2930,7 +2930,7 @@
       ],
       "number": 74,
       "answer": "B",
-      "explanation": "<1%.",
+      "explanation": "O resumo estima que mais de 99% das infecções sejam subclínicas e menos de 1% se manifeste como gengivoestomatite.",
       "topicId": "tema-7",
       "difficulty": "basico",
       "sourceId": "base"
@@ -3000,38 +3000,6 @@
       "sourceId": "base"
     },
     {
-      "id": "base-77",
-      "prompt": "Aciclovir na mucosa oral (slide):",
-      "options": [
-        {
-          "key": "A",
-          "text": "1×/dia"
-        },
-        {
-          "key": "B",
-          "text": "Suspensão, bochechar e engolir, 5×/dia, 5 dias"
-        },
-        {
-          "key": "C",
-          "text": "EV sempre"
-        },
-        {
-          "key": "D",
-          "text": "Tópico 1×"
-        },
-        {
-          "key": "E",
-          "text": "Não usar"
-        }
-      ],
-      "number": 77,
-      "answer": "B",
-      "explanation": "Suspensão, bochechar e engolir, 5×/dia, 5 dias.",
-      "topicId": "tema-7",
-      "difficulty": "intermediario",
-      "sourceId": "base"
-    },
-    {
       "id": "base-78",
       "prompt": "Leucoplasia pilosa: local clássico:",
       "options": [
@@ -3065,7 +3033,7 @@
     },
     {
       "id": "base-79",
-      "prompt": "Padrão-ouro da leucoplasia pilosa:",
+      "prompt": "Qual exame pode demonstrar EBV em uma lesão suspeita de leucoplasia pilosa?",
       "options": [
         {
           "key": "A",
@@ -3090,7 +3058,7 @@
       ],
       "number": 79,
       "answer": "B",
-      "explanation": "Biópsia + hibridização in situ EBV.",
+      "explanation": "O material cita biópsia associada à hibridização in situ para EBV.",
       "topicId": "tema-7",
       "difficulty": "intermediario",
       "sourceId": "base"
@@ -3129,7 +3097,7 @@
     },
     {
       "id": "carie-1",
-      "prompt": "Cárie dentária é, classicamente:",
+      "prompt": "Qual definição melhor descreve a cárie dentária?",
       "options": [
         {
           "key": "A",
@@ -3137,7 +3105,7 @@
         },
         {
           "key": "B",
-          "text": "Doença multifatorial mediada pelo biofilme, com ácidos bacterianos desmineralizando o dente"
+          "text": "Doença crônica multifatorial, mediada pelo biofilme e influenciada por açúcares, com perda mineral quando a desmineralização supera a remineralização"
         },
         {
           "key": "C",
@@ -3154,14 +3122,14 @@
       ],
       "number": 1,
       "answer": "B",
-      "explanation": "Multifatorial, biofilme, ácidos bacterianos.",
+      "explanation": "É uma doença crônica multifatorial, mediada pelo biofilme e influenciada por açúcares; ocorre perda mineral quando a desmineralização supera a remineralização.",
       "topicId": "tema-carie",
       "difficulty": "basico",
       "sourceId": "carie"
     },
     {
       "id": "carie-2",
-      "prompt": "O microrganismo mais associado à cárie nos slides é:",
+      "prompt": "Qual microrganismo é destacado no material por produzir ácidos e glucano associado à cárie?",
       "options": [
         {
           "key": "A",
@@ -3186,7 +3154,7 @@
       ],
       "number": 2,
       "answer": "B",
-      "explanation": "S. mutans — ácido lático + glucano.",
+      "explanation": "O material destaca S. mutans por fermentar açúcares e participar da produção de glucano; isso não significa que seja a única espécie envolvida na cárie.",
       "topicId": "tema-carie",
       "difficulty": "basico",
       "sourceId": "carie"
@@ -3256,38 +3224,6 @@
       "sourceId": "carie"
     },
     {
-      "id": "carie-5",
-      "prompt": "O ácido mais associado à cárie por S. mutans é:",
-      "options": [
-        {
-          "key": "A",
-          "text": "Clorídrico"
-        },
-        {
-          "key": "B",
-          "text": "Cítrico"
-        },
-        {
-          "key": "C",
-          "text": "Lático"
-        },
-        {
-          "key": "D",
-          "text": "Fosfórico"
-        },
-        {
-          "key": "E",
-          "text": "Tartárico"
-        }
-      ],
-      "number": 5,
-      "answer": "C",
-      "explanation": "Lático, da fermentação de açúcares.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
-      "sourceId": "carie"
-    },
-    {
       "id": "carie-6",
       "prompt": "A sacarose é a mais cariogênica porque:",
       "options": [
@@ -3317,102 +3253,6 @@
       "explanation": "Duas funções: ácido + glucano.",
       "topicId": "tema-carie",
       "difficulty": "intermediario",
-      "sourceId": "carie"
-    },
-    {
-      "id": "carie-7",
-      "prompt": "Sacarose → glicose → :",
-      "options": [
-        {
-          "key": "A",
-          "text": "Frutano"
-        },
-        {
-          "key": "B",
-          "text": "Glucano"
-        },
-        {
-          "key": "C",
-          "text": "Glicogênio"
-        },
-        {
-          "key": "D",
-          "text": "Lactato"
-        },
-        {
-          "key": "E",
-          "text": "Nada"
-        }
-      ],
-      "number": 7,
-      "answer": "B",
-      "explanation": "Glicose → glucano; frutose → frutano.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
-      "sourceId": "carie"
-    },
-    {
-      "id": "carie-8",
-      "prompt": "Glucano insolúvel (mutano) relaciona-se a:",
-      "options": [
-        {
-          "key": "A",
-          "text": "S. sanguinis"
-        },
-        {
-          "key": "B",
-          "text": "S. mutans"
-        },
-        {
-          "key": "C",
-          "text": "Veillonella"
-        },
-        {
-          "key": "D",
-          "text": "Candida"
-        },
-        {
-          "key": "E",
-          "text": "Actinomyces"
-        }
-      ],
-      "number": 8,
-      "answer": "B",
-      "explanation": "Mutano → S. mutans; dextrano → S. sanguinis.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
-      "sourceId": "carie"
-    },
-    {
-      "id": "carie-9",
-      "prompt": "pH crítico de desmineralização do esmalte:",
-      "options": [
-        {
-          "key": "A",
-          "text": "7,0"
-        },
-        {
-          "key": "B",
-          "text": "4,5–5,5"
-        },
-        {
-          "key": "C",
-          "text": "2,0"
-        },
-        {
-          "key": "D",
-          "text": "8,0"
-        },
-        {
-          "key": "E",
-          "text": "6,9"
-        }
-      ],
-      "number": 9,
-      "answer": "B",
-      "explanation": "4,5–5,5.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
       "sourceId": "carie"
     },
     {
@@ -3640,70 +3480,6 @@
       "sourceId": "carie"
     },
     {
-      "id": "carie-17",
-      "prompt": "Se a questão falar em S. mutans + ácido lático, pense em:",
-      "options": [
-        {
-          "key": "A",
-          "text": "Erosão"
-        },
-        {
-          "key": "B",
-          "text": "Cárie"
-        },
-        {
-          "key": "C",
-          "text": "Herpes"
-        },
-        {
-          "key": "D",
-          "text": "Candidíase"
-        },
-        {
-          "key": "E",
-          "text": "Periodontite"
-        }
-      ],
-      "number": 17,
-      "answer": "B",
-      "explanation": "S. mutans + lático = cárie.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
-      "sourceId": "carie"
-    },
-    {
-      "id": "carie-18",
-      "prompt": "Se a questão falar em refluxo + HCl, pense em:",
-      "options": [
-        {
-          "key": "A",
-          "text": "Cárie"
-        },
-        {
-          "key": "B",
-          "text": "Erosão"
-        },
-        {
-          "key": "C",
-          "text": "Candidíase"
-        },
-        {
-          "key": "D",
-          "text": "Herpes"
-        },
-        {
-          "key": "E",
-          "text": "Biofilme"
-        }
-      ],
-      "number": 18,
-      "answer": "B",
-      "explanation": "HCl = erosão.",
-      "topicId": "tema-carie",
-      "difficulty": "basico",
-      "sourceId": "carie"
-    },
-    {
       "id": "carie-19",
       "prompt": "Fluoretos, nos slides, agem:",
       "options": [
@@ -3736,63 +3512,29 @@
       "sourceId": "carie"
     },
     {
-      "id": "carie-20",
-      "prompt": "Uso contínuo de antibiótico contra biofilme:",
-      "options": [
-        {
-          "key": "A",
-          "text": "É aceito"
-        },
-        {
-          "key": "B",
-          "text": "NÃO é aceito (alergia, penetração, resistência, Candida)"
-        },
-        {
-          "key": "C",
-          "text": "É o melhor"
-        },
-        {
-          "key": "D",
-          "text": "Cura cárie"
-        },
-        {
-          "key": "E",
-          "text": "Não tem efeito"
-        }
-      ],
-      "number": 20,
-      "answer": "B",
-      "explanation": "Não aceito.",
-      "topicId": "tema-carie",
-      "difficulty": "intermediario",
-      "sourceId": "carie"
-    },
-    {
-      "id": "reparo-1",
-      "prompt": "Qual fator é considerado central na fisiopatologia da cárie?",
-      "options": [
-        {"key": "A", "text": "Desequilíbrio entre desmineralização e remineralização"},
-        {"key": "B", "text": "Ausência total de saliva"},
-        {"key": "C", "text": "Presença isolada de qualquer bactéria"},
-        {"key": "D", "text": "Reação alérgica ao esmalte"},
-        {"key": "E", "text": "Calcificação do biofilme"}
-      ],
-      "number": 1,
-      "answer": "A",
-      "explanation": "A cárie ocorre quando a desmineralização produzida pelo metabolismo bacteriano supera a capacidade de remineralização.",
-      "topicId": "tema-reparo",
-      "difficulty": "basico",
-      "sourceId": "reparo"
-    },
-    {
       "id": "reparo-2",
       "prompt": "Qual condição sistêmica pode retardar a cicatrização e aumentar o risco de infecção?",
       "options": [
-        {"key": "A", "text": "Diabetes mellitus mal controlado"},
-        {"key": "B", "text": "Hipertensão controlada sem complicações"},
-        {"key": "C", "text": "Aumento isolado da estatura"},
-        {"key": "D", "text": "Hipertrofia muscular"},
-        {"key": "E", "text": "Visão normal"}
+        {
+          "key": "A",
+          "text": "Diabetes mellitus mal controlado"
+        },
+        {
+          "key": "B",
+          "text": "Hipertensão controlada sem complicações"
+        },
+        {
+          "key": "C",
+          "text": "Aumento isolado da estatura"
+        },
+        {
+          "key": "D",
+          "text": "Hipertrofia muscular"
+        },
+        {
+          "key": "E",
+          "text": "Visão normal"
+        }
       ],
       "number": 2,
       "answer": "A",
@@ -3805,11 +3547,26 @@
       "id": "reparo-3",
       "prompt": "Uma ferida cirúrgica limpa cujas bordas são aproximadas por sutura cicatriza por:",
       "options": [
-        {"key": "A", "text": "Segunda intenção"},
-        {"key": "B", "text": "Terceira intenção"},
-        {"key": "C", "text": "Primeira intenção"},
-        {"key": "D", "text": "Necrose programada"},
-        {"key": "E", "text": "Formação exclusiva de pus"}
+        {
+          "key": "A",
+          "text": "Segunda intenção"
+        },
+        {
+          "key": "B",
+          "text": "Terceira intenção"
+        },
+        {
+          "key": "C",
+          "text": "Primeira intenção"
+        },
+        {
+          "key": "D",
+          "text": "Necrose programada"
+        },
+        {
+          "key": "E",
+          "text": "Formação exclusiva de pus"
+        }
       ],
       "number": 3,
       "answer": "C",
@@ -3822,15 +3579,30 @@
       "id": "reparo-4",
       "prompt": "Qual característica é típica da cicatrização por segunda intenção?",
       "options": [
-        {"key": "A", "text": "Sutura imediata de ferida limpa"},
-        {"key": "B", "text": "Contração da ferida e formação de tecido de granulação"},
-        {"key": "C", "text": "Ausência completa de epitelização"},
-        {"key": "D", "text": "Fechamento antes do controle da contaminação"},
-        {"key": "E", "text": "Ausência de cicatriz"}
+        {
+          "key": "A",
+          "text": "Sutura imediata de ferida limpa"
+        },
+        {
+          "key": "B",
+          "text": "Contração da ferida e formação de tecido de granulação"
+        },
+        {
+          "key": "C",
+          "text": "Ausência completa de epitelização"
+        },
+        {
+          "key": "D",
+          "text": "Fechamento antes do controle da contaminação"
+        },
+        {
+          "key": "E",
+          "text": "Ausência de cicatriz"
+        }
       ],
       "number": 4,
       "answer": "B",
-      "explanation": "Na segunda intenção há contração da ferida, tecido de granulação e epitelização a partir das bordas.",
+      "explanation": "Na segunda intenção há contração da ferida, tecido de granulação e epitelização.",
       "topicId": "tema-reparo",
       "difficulty": "basico",
       "sourceId": "reparo"
@@ -3839,11 +3611,26 @@
       "id": "reparo-5",
       "prompt": "Na cicatrização por terceira intenção:",
       "options": [
-        {"key": "A", "text": "A ferida contaminada é deixada aberta e suturada após controle da contaminação"},
-        {"key": "B", "text": "A ferida sempre permanece aberta sem tratamento"},
-        {"key": "C", "text": "Não ocorre cicatrização"},
-        {"key": "D", "text": "A pele é removida totalmente"},
-        {"key": "E", "text": "Haverá apenas regeneração óssea"}
+        {
+          "key": "A",
+          "text": "A ferida é deixada aberta inicialmente e suturada após controle da contaminação"
+        },
+        {
+          "key": "B",
+          "text": "A ferida sempre permanece aberta sem tratamento"
+        },
+        {
+          "key": "C",
+          "text": "Não ocorre cicatrização"
+        },
+        {
+          "key": "D",
+          "text": "A pele é removida totalmente"
+        },
+        {
+          "key": "E",
+          "text": "Haverá apenas regeneração óssea"
+        }
       ],
       "number": 5,
       "answer": "A",
@@ -3856,15 +3643,30 @@
       "id": "reparo-6",
       "prompt": "Qual fator sistêmico pode prejudicar a cicatrização por provocar hipocelularidade e hipovascularização?",
       "options": [
-        {"key": "A", "text": "Radioterapia na região de cabeça e pescoço"},
-        {"key": "B", "text": "Uso correto de flúor tópico"},
-        {"key": "C", "text": "Higienização adequada"},
-        {"key": "D", "text": "Aumento do fluxo salivar fisiológico"},
-        {"key": "E", "text": "Escovação suave"}
+        {
+          "key": "A",
+          "text": "Radioterapia na região de cabeça e pescoço"
+        },
+        {
+          "key": "B",
+          "text": "Uso correto de flúor tópico"
+        },
+        {
+          "key": "C",
+          "text": "Higienização adequada"
+        },
+        {
+          "key": "D",
+          "text": "Aumento do fluxo salivar fisiológico"
+        },
+        {
+          "key": "E",
+          "text": "Escovação suave"
+        }
       ],
       "number": 6,
       "answer": "A",
-      "explanation": "A radioterapia pode causar hipocelularidade, hipovascularização e hipoxia em tecidos de cabeça e pescoço.",
+      "explanation": "A radioterapia pode causar hipocelularidade, hipovascularização e hipoxia.",
       "topicId": "tema-reparo",
       "difficulty": "intermediario",
       "sourceId": "reparo"
@@ -3873,11 +3675,26 @@
       "id": "reparo-7",
       "prompt": "Qual medicação pode estar associada a osteonecrose dos maxilares em pacientes selecionados?",
       "options": [
-        {"key": "A", "text": "Bifosfonatos e outros medicamentos antirresortivos"},
-        {"key": "B", "text": "Flúor tópico"},
-        {"key": "C", "text": "Clorexidina apenas"},
-        {"key": "D", "text": "Vitaminas hidrossolúveis"},
-        {"key": "E", "text": "Nistatina tópica"}
+        {
+          "key": "A",
+          "text": "Bifosfonatos e outros medicamentos antirresortivos"
+        },
+        {
+          "key": "B",
+          "text": "Flúor tópico"
+        },
+        {
+          "key": "C",
+          "text": "Clorexidina apenas"
+        },
+        {
+          "key": "D",
+          "text": "Vitaminas hidrossolúveis"
+        },
+        {
+          "key": "E",
+          "text": "Nistatina tópica"
+        }
       ],
       "number": 7,
       "answer": "A",
@@ -3890,11 +3707,26 @@
       "id": "reparo-8",
       "prompt": "Qual conduta é adequada diante de um paciente em uso de anticoagulante que necessita de procedimento cirúrgico?",
       "options": [
-        {"key": "A", "text": "Suspender o medicamento automaticamente"},
-        {"key": "B", "text": "Avaliar o risco individual e seguir orientação do profissional responsável pela anticoagulação"},
-        {"key": "C", "text": "Ignorar o uso do medicamento"},
-        {"key": "D", "text": "Trocar o anticoagulante sem prescrição"},
-        {"key": "E", "text": "Aumentar a dose antes da cirurgia"}
+        {
+          "key": "A",
+          "text": "Suspender o medicamento automaticamente"
+        },
+        {
+          "key": "B",
+          "text": "Avaliar o risco individual e seguir orientação do profissional responsável pela anticoagulação"
+        },
+        {
+          "key": "C",
+          "text": "Ignorar o uso do medicamento"
+        },
+        {
+          "key": "D",
+          "text": "Trocar o anticoagulante sem prescrição"
+        },
+        {
+          "key": "E",
+          "text": "Aumentar a dose antes da cirurgia"
+        }
       ],
       "number": 8,
       "answer": "B",
@@ -3907,15 +3739,30 @@
       "id": "reparo-9",
       "prompt": "Qual evento ocorre inicialmente após uma lesão tecidual?",
       "options": [
-        {"key": "A", "text": "Vasoconstrição transitória das arteríolas"},
-        {"key": "B", "text": "Remodelamento completo imediato"},
-        {"key": "C", "text": "Contração de miofibroblastos sem inflamação"},
-        {"key": "D", "text": "Formação exclusiva de cicatriz"},
-        {"key": "E", "text": "Desnitrificação da ferida"}
+        {
+          "key": "A",
+          "text": "Vasoconstrição transitória das arteríolas"
+        },
+        {
+          "key": "B",
+          "text": "Remodelamento completo imediato"
+        },
+        {
+          "key": "C",
+          "text": "Contração de miofibroblastos sem inflamação"
+        },
+        {
+          "key": "D",
+          "text": "Formação exclusiva de cicatriz"
+        },
+        {
+          "key": "E",
+          "text": "Desnitrificação da ferida"
+        }
       ],
       "number": 9,
       "answer": "A",
-      "explanation": "Após a lesão ocorre vasoconstrição transitória das arteríolas, seguida por vasodilatação e aumento da permeabilidade vascular.",
+      "explanation": "Após a lesão ocorre vasoconstrição transitória seguida por vasodilatação e aumento da permeabilidade.",
       "topicId": "tema-reparo",
       "difficulty": "intermediario",
       "sourceId": "reparo"
@@ -3924,15 +3771,30 @@
       "id": "reparo-10",
       "prompt": "Qual molécula participa da interação AGEs-RAGE que pode prejudicar o reparo em diabetes?",
       "options": [
-        {"key": "A", "text": "Produtos finais da glicação avançada"},
-        {"key": "B", "text": "Hemoglobina fetal"},
-        {"key": "C", "text": "Colágeno tipo IV intacto"},
-        {"key": "D", "text": "Vitamina C isolada"},
-        {"key": "E", "text": "Insulina exógena sem receptor"}
+        {
+          "key": "A",
+          "text": "Produtos finais da glicação avançada"
+        },
+        {
+          "key": "B",
+          "text": "Hemoglobina fetal"
+        },
+        {
+          "key": "C",
+          "text": "Colágeno tipo IV intacto"
+        },
+        {
+          "key": "D",
+          "text": "Vitamina C isolada"
+        },
+        {
+          "key": "E",
+          "text": "Insulina exógena sem receptor"
+        }
       ],
       "number": 10,
       "answer": "A",
-      "explanation": "AGEs ligam-se ao receptor RAGE e estimulam mediadores pró-inflamatórios e metaloproteinases que prejudicam o fechamento da ferida.",
+      "explanation": "AGEs ligam-se ao receptor RAGE e estimulam mediadores pró-inflamatórios e MMPs.",
       "topicId": "tema-reparo",
       "difficulty": "avancado",
       "sourceId": "reparo"
@@ -3941,15 +3803,30 @@
       "id": "reparo-11",
       "prompt": "Qual é a principal função dos miofibroblastos na cicatrização por segunda intenção?",
       "options": [
-        {"key": "A", "text": "Produzir plasma para o coágulo"},
-        {"key": "B", "text": "Aproximar as bordas por contração da ferida"},
-        {"key": "C", "text": "Eliminar o colágeno"},
-        {"key": "D", "text": "Transformar ferida aberta em necrose"},
-        {"key": "E", "text": "Suspender a epitelização"}
+        {
+          "key": "A",
+          "text": "Produzir plasma para o coágulo"
+        },
+        {
+          "key": "B",
+          "text": "Aproximar as bordas por contração da ferida"
+        },
+        {
+          "key": "C",
+          "text": "Eliminar o colágeno"
+        },
+        {
+          "key": "D",
+          "text": "Transformar ferida aberta em necrose"
+        },
+        {
+          "key": "E",
+          "text": "Suspender a epitelização"
+        }
       ],
       "number": 11,
       "answer": "B",
-      "explanation": "Miofibroblastos derivados de fibroblastos e pericitos apresentam fenótipo contrátil e aproximam as bordas da ferida.",
+      "explanation": "Miofibroblastos apresentam fenótipo contrátil e aproximam as bordas da ferida.",
       "topicId": "tema-reparo",
       "difficulty": "intermediario",
       "sourceId": "reparo"
@@ -3958,15 +3835,30 @@
       "id": "reparo-12",
       "prompt": "A hipoxia prolongada prejudica a cicatrização principalmente porque:",
       "options": [
-        {"key": "A", "text": "Aumenta a deposição de colágeno"},
-        {"key": "B", "text": "Diminui a deposição de colágeno e a atividade fagocitária"},
-        {"key": "C", "text": "Estimula a angiogênese excessiva sem controle"},
-        {"key": "D", "text": "Aumenta sempre a imunidade local"},
-        {"key": "E", "text": "Elimina todos os micro-organismos"}
+        {
+          "key": "A",
+          "text": "Aumenta a deposição de colágeno"
+        },
+        {
+          "key": "B",
+          "text": "Diminui a deposição de colágeno e a atividade fagocitária"
+        },
+        {
+          "key": "C",
+          "text": "Estimula a angiogênese excessiva sem controle"
+        },
+        {
+          "key": "D",
+          "text": "Aumenta sempre a imunidade local"
+        },
+        {
+          "key": "E",
+          "text": "Elimina todos os micro-organismos"
+        }
       ],
       "number": 12,
       "answer": "B",
-      "explanation": "A hipoxia reduz oxigênio e nutrientes, diminui a deposição de colágeno e inibe a fagocitose.",
+      "explanation": "A hipoxia reduz oxigênio e nutrientes, deposição de colágeno e fagocitose.",
       "topicId": "tema-reparo",
       "difficulty": "basico",
       "sourceId": "reparo"
@@ -3975,15 +3867,30 @@
       "id": "reparo-13",
       "prompt": "Na hipertensão arterial, qual alteração pode ocorrer no reparo?",
       "options": [
-        {"key": "A", "text": "Aumento da densidade de colágeno I e III"},
-        {"key": "B", "text": "Redução do transporte sanguíneo e da síntese de colágeno"},
-        {"key": "C", "text": "Cicatrização sempre acelerada"},
-        {"key": "D", "text": "Ausência de risco microvascular"},
-        {"key": "E", "text": "Aumento imediato da oxigenação tecidual"}
+        {
+          "key": "A",
+          "text": "Aumento da densidade de colágeno I e III"
+        },
+        {
+          "key": "B",
+          "text": "Redução do transporte sanguíneo e da síntese de colágeno"
+        },
+        {
+          "key": "C",
+          "text": "Cicatrização sempre acelerada"
+        },
+        {
+          "key": "D",
+          "text": "Ausência de risco microvascular"
+        },
+        {
+          "key": "E",
+          "text": "Aumento imediato da oxigenação tecidual"
+        }
       ],
       "number": 13,
       "answer": "B",
-      "explanation": "A hipertensão pode causar dano microvascular, reduzir o transporte sanguíneo e diminuir colágeno tipo I e III.",
+      "explanation": "A hipertensão pode causar dano microvascular e reduzir colágeno tipo I e III.",
       "topicId": "tema-reparo",
       "difficulty": "avancado",
       "sourceId": "reparo"
@@ -3992,15 +3899,30 @@
       "id": "reparo-14",
       "prompt": "O que caracteriza isquemia tecidual?",
       "options": [
-        {"key": "A", "text": "Fluxo arterial insuficiente para manter funções normais"},
-        {"key": "B", "text": "Excesso de oxigênio em todos os tecidos"},
-        {"key": "C", "text": "Aumento sem limites do fluxo sanguíneo"},
-        {"key": "D", "text": "Presença isolada de vitamina C"},
-        {"key": "E", "text": "Cicatrização por primeira intenção garantida"}
+        {
+          "key": "A",
+          "text": "Fluxo arterial insuficiente para manter funções normais"
+        },
+        {
+          "key": "B",
+          "text": "Excesso de oxigênio em todos os tecidos"
+        },
+        {
+          "key": "C",
+          "text": "Aumento sem limites do fluxo sanguíneo"
+        },
+        {
+          "key": "D",
+          "text": "Presença isolada de vitamina C"
+        },
+        {
+          "key": "E",
+          "text": "Cicatrização por primeira intenção garantida"
+        }
       ],
       "number": 14,
       "answer": "A",
-      "explanation": "Isquemia significa fluxo arterial insuficiente para manter a nutrição e as funções teciduais normais.",
+      "explanation": "Isquemia significa fluxo arterial insuficiente para manter a nutrição tecidual.",
       "topicId": "tema-reparo",
       "difficulty": "basico",
       "sourceId": "reparo"
@@ -4009,15 +3931,30 @@
       "id": "reparo-15",
       "prompt": "Qual fator nutricional está diretamente relacionado à hidroxilação de lisina e prolina?",
       "options": [
-        {"key": "A", "text": "Vitamina C"},
-        {"key": "B", "text": "Vitamina B12 isoladamente"},
-        {"key": "C", "text": "Vitamina A apenas"},
-        {"key": "D", "text": "Sódio"},
-        {"key": "E", "text": "Ferro isolado"}
+        {
+          "key": "A",
+          "text": "Vitamina C"
+        },
+        {
+          "key": "B",
+          "text": "Vitamina B12 isoladamente"
+        },
+        {
+          "key": "C",
+          "text": "Vitamina A apenas"
+        },
+        {
+          "key": "D",
+          "text": "Sódio"
+        },
+        {
+          "key": "E",
+          "text": "Ferro isolado"
+        }
       ],
       "number": 15,
       "answer": "A",
-      "explanation": "A vitamina C é essencial para a hidroxilação de lisina e prolina durante a síntese de colágeno.",
+      "explanation": "A vitamina C participa da hidroxilação de lisina e prolina na síntese de colágeno.",
       "topicId": "tema-reparo",
       "difficulty": "basico",
       "sourceId": "reparo"
@@ -4026,15 +3963,30 @@
       "id": "reparo-16",
       "prompt": "A desnutrição pode afetar o reparo tecidual por:",
       "options": [
-        {"key": "A", "text": "Prejudicar a resposta fibroblástica e diminuir a angiogênese"},
-        {"key": "B", "text": "Aumentar automaticamente o colágeno"},
-        {"key": "C", "text": "Eliminar o processo inflamatório"},
-        {"key": "D", "text": "Causar cicatrização sem tecido de granulação"},
-        {"key": "E", "text": "Estimular deiscência apenas em hipertensos"}
+        {
+          "key": "A",
+          "text": "Prejudicar a resposta fibroblástica e diminuir a angiogênese"
+        },
+        {
+          "key": "B",
+          "text": "Aumentar automaticamente o colágeno"
+        },
+        {
+          "key": "C",
+          "text": "Eliminar o processo inflamatório"
+        },
+        {
+          "key": "D",
+          "text": "Causar cicatrização sem tecido de granulação"
+        },
+        {
+          "key": "E",
+          "text": "Estimular deiscência apenas em hipertensos"
+        }
       ],
       "number": 16,
       "answer": "A",
-      "explanation": "Deficiências proteicas e energéticas prejudicam fibroblastos e angiogênese, tornando a cicatrização mais lenta.",
+      "explanation": "Deficiências proteicas e energéticas prejudicam fibroblastos e angiogênese.",
       "topicId": "tema-reparo",
       "difficulty": "basico",
       "sourceId": "reparo"
@@ -4043,15 +3995,30 @@
       "id": "reparo-17",
       "prompt": "Quais oligoelementos participam da formação do colágeno?",
       "options": [
-        {"key": "A", "text": "Zinco, ferro, cobre e manganês"},
-        {"key": "B", "text": "Sódio, potássio e cálcio apenas"},
-        {"key": "C", "text": "Cloro e fósforo isolados"},
-        {"key": "D", "text": "Iodo e magnésio apenas"},
-        {"key": "E", "text": "Nenhum oligoelemento"}
+        {
+          "key": "A",
+          "text": "Zinco, ferro, cobre e manganês"
+        },
+        {
+          "key": "B",
+          "text": "Sódio, potássio e cálcio apenas"
+        },
+        {
+          "key": "C",
+          "text": "Cloro e fósforo isolados"
+        },
+        {
+          "key": "D",
+          "text": "Iodo e magnésio apenas"
+        },
+        {
+          "key": "E",
+          "text": "Nenhum oligoelemento"
+        }
       ],
       "number": 17,
       "answer": "A",
-      "explanation": "Zinco, ferro, cobre e manganês são necessários para processos relacionados à formação do colágeno.",
+      "explanation": "Zinco, ferro, cobre e manganês participam da formação do colágeno.",
       "topicId": "tema-reparo",
       "difficulty": "intermediario",
       "sourceId": "reparo"
@@ -4060,208 +4027,590 @@
       "id": "eco-1",
       "prompt": "Quais componentes formam um ecossistema bucal?",
       "options": [
-        {"key": "A", "text": "Fatores bióticos e abióticos"},
-        {"key": "B", "text": "Apenas bactérias"},
-        {"key": "C", "text": "Apenas dentes e saliva"},
-        {"key": "D", "text": "Somente fatores genéticos"},
-        {"key": "E", "text": "Tecidos mineralizados exclusivamente"}
+        {
+          "key": "A",
+          "text": "Fatores bióticos e abióticos"
+        },
+        {
+          "key": "B",
+          "text": "Apenas bactérias"
+        },
+        {
+          "key": "C",
+          "text": "Apenas dentes e saliva"
+        },
+        {
+          "key": "D",
+          "text": "Somente fatores genéticos"
+        },
+        {
+          "key": "E",
+          "text": "Tecidos mineralizados exclusivamente"
+        }
       ],
-      "number": 1,
       "answer": "A",
       "explanation": "O ecossistema envolve seres vivos e fatores ambientais bióticos e abióticos.",
       "topicId": "tema-ecossistema",
       "difficulty": "basico",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 1
     },
     {
       "id": "eco-2",
       "prompt": "O que caracteriza a sucessão microbiana?",
       "options": [
-        {"key": "A", "text": "Mudança da comunidade em resposta a alterações do habitat"},
-        {"key": "B", "text": "Eliminação permanente de toda microbiota"},
-        {"key": "C", "text": "Transformação de bactérias em vírus"},
-        {"key": "D", "text": "Impedimento de colonização após o nascimento"},
-        {"key": "E", "text": "Aumento invariável de uma única espécie"}
+        {
+          "key": "A",
+          "text": "Mudança da comunidade em resposta a alterações do habitat"
+        },
+        {
+          "key": "B",
+          "text": "Eliminação permanente de toda microbiota"
+        },
+        {
+          "key": "C",
+          "text": "Transformação de bactérias em vírus"
+        },
+        {
+          "key": "D",
+          "text": "Impedimento de colonização após o nascimento"
+        },
+        {
+          "key": "E",
+          "text": "Aumento invariável de uma única espécie"
+        }
       ],
-      "number": 2,
       "answer": "A",
       "explanation": "Sucessão microbiana é a mudança da comunidade em resposta a modificações do ambiente e do habitat.",
       "topicId": "tema-ecossistema",
       "difficulty": "basico",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 2
     },
     {
       "id": "eco-3",
       "prompt": "Por que a erupção dos dentes modifica a microbiota bucal?",
       "options": [
-        {"key": "A", "text": "Cria novas superfícies e habitats para colonização"},
-        {"key": "B", "text": "Esteriliza permanentemente a cavidade bucal"},
-        {"key": "C", "text": "Elimina os fatores abióticos"},
-        {"key": "D", "text": "Impede a formação de biofilme"},
-        {"key": "E", "text": "Transforma microbiota residente em transitória"}
+        {
+          "key": "A",
+          "text": "Cria novas superfícies e habitats para colonização"
+        },
+        {
+          "key": "B",
+          "text": "Esteriliza permanentemente a cavidade bucal"
+        },
+        {
+          "key": "C",
+          "text": "Elimina os fatores abióticos"
+        },
+        {
+          "key": "D",
+          "text": "Impede a formação de biofilme"
+        },
+        {
+          "key": "E",
+          "text": "Transforma microbiota residente em transitória"
+        }
       ],
-      "number": 3,
       "answer": "A",
       "explanation": "A erupção dentária cria superfícies não descamativas que oferecem novos nichos para colonização microbiana.",
       "topicId": "tema-ecossistema",
       "difficulty": "basico",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 3
     },
     {
       "id": "eco-4",
       "prompt": "Qual conjunto inclui mecanismos de aderência específica descritos na aula?",
       "options": [
-        {"key": "A", "text": "Adesinas, pili ou fímbrias e glicocálice"},
-        {"key": "B", "text": "Hemácias, plaquetas e fibrina"},
-        {"key": "C", "text": "Colágeno, elastina e queratina"},
-        {"key": "D", "text": "Cílios, alvéolos e osteócitos"},
-        {"key": "E", "text": "Somente força gravitacional"}
+        {
+          "key": "A",
+          "text": "Adesinas, pili ou fímbrias e glicocálice"
+        },
+        {
+          "key": "B",
+          "text": "Hemácias, plaquetas e fibrina"
+        },
+        {
+          "key": "C",
+          "text": "Colágeno, elastina e queratina"
+        },
+        {
+          "key": "D",
+          "text": "Cílios, alvéolos e osteócitos"
+        },
+        {
+          "key": "E",
+          "text": "Somente força gravitacional"
+        }
       ],
-      "number": 4,
       "answer": "A",
       "explanation": "Adesinas, pili ou fímbrias e glicocálice participam da aderência microbiana; superfícies irregulares também favorecem retenção mecânica.",
       "topicId": "tema-ecossistema",
       "difficulty": "intermediario",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 4
     },
     {
       "id": "eco-5",
       "prompt": "No comensalismo, qual é a relação entre as espécies?",
       "options": [
-        {"key": "A", "text": "Uma se beneficia e a outra não é significativamente afetada"},
-        {"key": "B", "text": "Ambas são obrigatoriamente prejudicadas"},
-        {"key": "C", "text": "Uma sempre elimina a outra"},
-        {"key": "D", "text": "Ambas são beneficiadas obrigatoriamente"},
-        {"key": "E", "text": "Nenhuma interage com o ambiente"}
+        {
+          "key": "A",
+          "text": "Uma se beneficia e a outra não é significativamente afetada"
+        },
+        {
+          "key": "B",
+          "text": "Ambas são obrigatoriamente prejudicadas"
+        },
+        {
+          "key": "C",
+          "text": "Uma sempre elimina a outra"
+        },
+        {
+          "key": "D",
+          "text": "Ambas são beneficiadas obrigatoriamente"
+        },
+        {
+          "key": "E",
+          "text": "Nenhuma interage com o ambiente"
+        }
       ],
-      "number": 5,
       "answer": "A",
       "explanation": "Comensalismo é uma associação em que uma espécie se beneficia sem efeito significativo sobre a outra.",
       "topicId": "tema-ecossistema",
       "difficulty": "intermediario",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 5
     },
     {
       "id": "eco-6",
       "prompt": "Qual afirmação sobre mutualismo entre microrganismos é cientificamente mais adequada?",
       "options": [
-        {"key": "A", "text": "Pode ocorrer quando ambas as espécies se beneficiam"},
-        {"key": "B", "text": "É impossível entre bactérias"},
-        {"key": "C", "text": "Sempre prejudica ambas as espécies"},
-        {"key": "D", "text": "Ocorre apenas entre vírus e fungos"},
-        {"key": "E", "text": "É sinônimo de competição"}
+        {
+          "key": "A",
+          "text": "Pode ocorrer quando ambas as espécies se beneficiam"
+        },
+        {
+          "key": "B",
+          "text": "É impossível entre bactérias"
+        },
+        {
+          "key": "C",
+          "text": "Sempre prejudica ambas as espécies"
+        },
+        {
+          "key": "D",
+          "text": "Ocorre apenas entre vírus e fungos"
+        },
+        {
+          "key": "E",
+          "text": "É sinônimo de competição"
+        }
       ],
-      "number": 6,
       "answer": "A",
       "explanation": "Mutualismo descreve benefício para ambas as espécies. A afirmação absoluta de que não existe mutualismo entre bactérias não deve ser tratada como regra geral.",
       "topicId": "tema-ecossistema",
       "difficulty": "avancado",
-      "sourceId": "ecossistema"
+      "sourceId": "ecossistema",
+      "number": 6
     },
     {
       "id": "gland-1",
       "prompt": "Qual é a maior das glândulas salivares maiores?",
       "options": [
-        {"key": "A", "text": "Parótida"},
-        {"key": "B", "text": "Sublingual"},
-        {"key": "C", "text": "Submandibular"},
-        {"key": "D", "text": "Glândula de Von Ebner"},
-        {"key": "E", "text": "Glândula labial"}
+        {
+          "key": "A",
+          "text": "Parótida"
+        },
+        {
+          "key": "B",
+          "text": "Sublingual"
+        },
+        {
+          "key": "C",
+          "text": "Submandibular"
+        },
+        {
+          "key": "D",
+          "text": "Glândula de Von Ebner"
+        },
+        {
+          "key": "E",
+          "text": "Glândula labial"
+        }
       ],
-      "number": 1,
       "answer": "A",
       "explanation": "A parótida é a maior das três glândulas salivares maiores.",
       "topicId": "tema-glandulas",
       "difficulty": "basico",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 1
     },
     {
       "id": "gland-2",
       "prompt": "Onde se abre o ducto parotídeo de Stensen?",
       "options": [
-        {"key": "A", "text": "Na carúncula sublingual"},
-        {"key": "B", "text": "Na mucosa jugal, em frente ao segundo molar superior"},
-        {"key": "C", "text": "No frênulo lingual"},
-        {"key": "D", "text": "No palato mole"},
-        {"key": "E", "text": "No sulco gengival"}
+        {
+          "key": "A",
+          "text": "Na carúncula sublingual"
+        },
+        {
+          "key": "B",
+          "text": "No frênulo lingual"
+        },
+        {
+          "key": "C",
+          "text": "Na mucosa jugal, em frente ao segundo molar superior"
+        },
+        {
+          "key": "D",
+          "text": "No palato mole"
+        },
+        {
+          "key": "E",
+          "text": "No sulco gengival"
+        }
       ],
-      "number": 2,
-      "answer": "B",
-      "explanation": "O ducto de Stensen abre-se na mucosa jugal, próximo e em frente ao segundo molar superior.",
+      "answer": "C",
+      "explanation": "O ducto de Stensen abre-se na mucosa jugal, em frente ao segundo molar superior.",
       "topicId": "tema-glandulas",
       "difficulty": "basico",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 2
     },
     {
       "id": "gland-3",
       "prompt": "Qual ducto conduz a secreção da glândula submandibular?",
       "options": [
-        {"key": "A", "text": "Ducto de Stensen"},
-        {"key": "B", "text": "Ducto de Wharton"},
-        {"key": "C", "text": "Ducto de Rivinus exclusivamente"},
-        {"key": "D", "text": "Ducto nasolacrimal"},
-        {"key": "E", "text": "Ducto incisivo"}
+        {
+          "key": "A",
+          "text": "Ducto de Stensen"
+        },
+        {
+          "key": "B",
+          "text": "Ducto de Wharton"
+        },
+        {
+          "key": "C",
+          "text": "Ducto de Rivinus exclusivamente"
+        },
+        {
+          "key": "D",
+          "text": "Ducto nasolacrimal"
+        },
+        {
+          "key": "E",
+          "text": "Ducto incisivo"
+        }
       ],
-      "number": 3,
       "answer": "B",
       "explanation": "A glândula submandibular drena principalmente pelo ducto de Wharton, que se abre na carúncula sublingual.",
       "topicId": "tema-glandulas",
       "difficulty": "basico",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 3
     },
     {
       "id": "gland-4",
       "prompt": "Qual é a localização da glândula sublingual?",
       "options": [
-        {"key": "A", "text": "No assoalho da boca, acima do músculo milo-hióideo"},
-        {"key": "B", "text": "No interior do meato acústico externo"},
-        {"key": "C", "text": "Atrás do palato mole"},
-        {"key": "D", "text": "Dentro do seio maxilar"},
-        {"key": "E", "text": "Sobre o músculo temporal"}
+        {
+          "key": "A",
+          "text": "No assoalho da boca, acima do músculo milo-hióideo"
+        },
+        {
+          "key": "B",
+          "text": "No interior do meato acústico externo"
+        },
+        {
+          "key": "C",
+          "text": "Atrás do palato mole"
+        },
+        {
+          "key": "D",
+          "text": "Dentro do seio maxilar"
+        },
+        {
+          "key": "E",
+          "text": "Sobre o músculo temporal"
+        }
       ],
-      "number": 4,
       "answer": "A",
       "explanation": "A glândula sublingual é a menor das glândulas maiores e fica no assoalho da boca, superior ao milo-hióideo.",
       "topicId": "tema-glandulas",
       "difficulty": "basico",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 4
     },
     {
       "id": "gland-5",
       "prompt": "Qual associação entre glândula e tipo predominante de secreção está correta?",
       "options": [
-        {"key": "A", "text": "Parótida — serosa"},
-        {"key": "B", "text": "Parótida — exclusivamente mucosa"},
-        {"key": "C", "text": "Sublingual — exclusivamente serosa"},
-        {"key": "D", "text": "Submandibular — exclusivamente mucosa"},
-        {"key": "E", "text": "Todas — exclusivamente mucosas"}
+        {
+          "key": "A",
+          "text": "Parótida — serosa"
+        },
+        {
+          "key": "B",
+          "text": "Parótida — exclusivamente mucosa"
+        },
+        {
+          "key": "C",
+          "text": "Sublingual — exclusivamente serosa"
+        },
+        {
+          "key": "D",
+          "text": "Submandibular — exclusivamente mucosa"
+        },
+        {
+          "key": "E",
+          "text": "Todas — exclusivamente mucosas"
+        }
       ],
-      "number": 5,
       "answer": "A",
       "explanation": "A parótida produz secreção serosa; a submandibular e a sublingual são mistas, com predomínio seroso na primeira e mucoso na segunda.",
       "topicId": "tema-glandulas",
       "difficulty": "intermediario",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 5
     },
     {
       "id": "gland-6",
       "prompt": "Com quais estruturas as glândulas de Von Ebner estão associadas?",
       "options": [
-        {"key": "A", "text": "Papilas circunvaladas da língua"},
-        {"key": "B", "text": "Ducto parotídeo"},
-        {"key": "C", "text": "Gengiva inserida"},
-        {"key": "D", "text": "Músculo masseter"},
-        {"key": "E", "text": "Palato duro anterior"}
+        {
+          "key": "A",
+          "text": "Papilas circunvaladas da língua"
+        },
+        {
+          "key": "B",
+          "text": "Ducto parotídeo"
+        },
+        {
+          "key": "C",
+          "text": "Gengiva inserida"
+        },
+        {
+          "key": "D",
+          "text": "Músculo masseter"
+        },
+        {
+          "key": "E",
+          "text": "Palato duro anterior"
+        }
       ],
-      "number": 6,
       "answer": "A",
       "explanation": "As glândulas serosas de Von Ebner ficam associadas às papilas circunvaladas e ajudam a lavar os sulcos gustativos.",
       "topicId": "tema-glandulas",
       "difficulty": "intermediario",
-      "sourceId": "glandulas"
+      "sourceId": "glandulas",
+      "number": 6
+    },
+    {
+      "id": "hpv-1",
+      "prompt": "Quais subtipos de HPV o material destaca pelo maior interesse oncológico?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 e 11"
+        },
+        {
+          "key": "B",
+          "text": "16 e 18"
+        },
+        {
+          "key": "C",
+          "text": "1 e 2"
+        },
+        {
+          "key": "D",
+          "text": "Todos os subtipos têm o mesmo risco"
+        },
+        {
+          "key": "E",
+          "text": "Nenhum subtipo está associado a câncer"
+        }
+      ],
+      "answer": "B",
+      "explanation": "O resumo destaca os subtipos 16 e 18 pelo interesse oncológico no contexto do artigo.",
+      "topicId": "tema-9",
+      "difficulty": "basico",
+      "sourceId": "hpv-artigo",
+      "number": 1
+    },
+    {
+      "id": "hpv-2",
+      "prompt": "Como o artigo descreve o papel do HPV no câncer bucal?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Como fator associado, que pode somar-se a tabaco e álcool"
+        },
+        {
+          "key": "B",
+          "text": "Como substituto de tabaco e álcool"
+        },
+        {
+          "key": "C",
+          "text": "Como causa única de todos os casos"
+        },
+        {
+          "key": "D",
+          "text": "Como fator protetor"
+        },
+        {
+          "key": "E",
+          "text": "Como agente sem relação com carcinoma de células escamosas"
+        }
+      ],
+      "answer": "A",
+      "explanation": "O artigo apresenta o HPV, sobretudo tipos de alto risco, como fator associado; não como substituto de tabaco e álcool.",
+      "topicId": "tema-9",
+      "difficulty": "intermediario",
+      "sourceId": "hpv-artigo",
+      "number": 2
+    },
+    {
+      "id": "hpv-3",
+      "prompt": "Quais medidas de prevenção são destacadas no resumo do artigo sobre HPV e câncer bucal?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vacinação, educação, diagnóstico precoce e acompanhamento"
+        },
+        {
+          "key": "B",
+          "text": "Antibiótico preventivo para todos"
+        },
+        {
+          "key": "C",
+          "text": "Suspender consultas odontológicas"
+        },
+        {
+          "key": "D",
+          "text": "Evitar vacinação e aguardar sintomas"
+        },
+        {
+          "key": "E",
+          "text": "Usar antiviral contínuo sem avaliação"
+        }
+      ],
+      "answer": "A",
+      "explanation": "O resumo cita vacinação, educação, diagnóstico precoce e acompanhamento.",
+      "topicId": "tema-9",
+      "difficulty": "basico",
+      "sourceId": "hpv-artigo",
+      "number": 3
+    },
+    {
+      "id": "anato-1",
+      "prompt": "Como os arcos dentais dividem a cavidade bucal?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Em vestíbulo da boca e cavidade própria da boca"
+        },
+        {
+          "key": "B",
+          "text": "Em palato duro e palato mole"
+        },
+        {
+          "key": "C",
+          "text": "Em língua e orofaringe"
+        },
+        {
+          "key": "D",
+          "text": "Em gengiva livre e gengiva inserida"
+        },
+        {
+          "key": "E",
+          "text": "Em soalho da boca e istmo das fauces"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Os arcos dentais separam o vestíbulo, anterior e anterolateral, da cavidade própria da boca, posterior e maior.",
+      "topicId": "tema-anatomia",
+      "difficulty": "basico",
+      "sourceId": "anatomia-slides",
+      "number": 1
+    },
+    {
+      "id": "anato-2",
+      "prompt": "A cavidade própria da boca comunica-se com a orofaringe por meio do:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Istmo das fauces"
+        },
+        {
+          "key": "B",
+          "text": "Fórnice do vestíbulo"
+        },
+        {
+          "key": "C",
+          "text": "Ducto de Wharton"
+        },
+        {
+          "key": "D",
+          "text": "Sulco terminal"
+        },
+        {
+          "key": "E",
+          "text": "Forame cego"
+        }
+      ],
+      "answer": "A",
+      "explanation": "A comunicação com a parte oral da faringe ocorre pelo istmo das fauces.",
+      "topicId": "tema-anatomia",
+      "difficulty": "basico",
+      "sourceId": "anatomia-slides",
+      "number": 2
+    },
+    {
+      "id": "anato-3",
+      "prompt": "Qual característica distingue as papilas filiformes das papilas gustativas descritas nos slides?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Não apresentam corpúsculos gustativos"
+        },
+        {
+          "key": "B",
+          "text": "São as maiores e ficam à frente do sulco terminal"
+        },
+        {
+          "key": "C",
+          "text": "Contêm os ductos parotídeos"
+        },
+        {
+          "key": "D",
+          "text": "Localizam-se somente no palato"
+        },
+        {
+          "key": "E",
+          "text": "Formam a carúncula sublingual"
+        }
+      ],
+      "answer": "A",
+      "explanation": "As papilas filiformes são numerosas no dorso da língua e não apresentam corpúsculos gustativos.",
+      "topicId": "tema-anatomia",
+      "difficulty": "intermediario",
+      "sourceId": "anatomia-slides",
+      "number": 3
     }
   ],
   "sources": [
+    {
+      "id": "824ba89e8276",
+      "name": "Admin,+Artigo+6+Repercussao.pdf",
+      "files": [
+        "Admin,+Artigo+6+Repercussao.pdf"
+      ],
+      "copies": 1,
+      "type": "pdf",
+      "sizeBytes": 431772
+    },
     {
       "id": "e032381a5f4a",
       "name": "Anatomia da cavidade bucal (2).pptx",
@@ -4367,6 +4716,16 @@
       "sizeBytes": 10601731
     },
     {
+      "id": "260742b80ade",
+      "name": "Métodos de diagnóstico da doença cárie e tratamento (1).pptx",
+      "files": [
+        "Métodos de diagnóstico da doença cárie e tratamento (1).pptx"
+      ],
+      "copies": 1,
+      "type": "pptx",
+      "sizeBytes": 17367077
+    },
+    {
       "id": "ae8cb0b70360",
       "name": "Métodos de identificação e Cultivo de microrganismos 5.pdf",
       "files": [
@@ -4415,16 +4774,6 @@
       "copies": 1,
       "type": "docx",
       "sizeBytes": 43162
-    },
-    {
-      "id": "repercussao-pdf",
-      "name": "Admin,+Artigo+6+Repercussao.pdf",
-      "files": [
-        "Admin,+Artigo+6+Repercussao.pdf"
-      ],
-      "copies": 1,
-      "type": "pdf",
-      "sizeBytes": 431772
     }
   ]
 };
