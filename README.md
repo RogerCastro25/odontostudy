@@ -4,6 +4,6 @@ Esta pasta contém apenas os arquivos necessários para executar o app. Os PDFs 
 
 ## Publicação
 
-O site é publicado a partir da raiz do repositório. Para atualizar os arquivos depois, execute `prepare-github-pages.cmd` na pasta principal do projeto, envie os arquivos atualizados para o repositório e confirme o commit.
+O site é publicado a partir da raiz do repositório. Para atualizar os arquivos depois, execute `prepare-github-pages.cmd` na pasta principal do projeto e envie os arquivos atualizados da pasta `github-pages` para o repositório.
 
 No GitHub, em **Settings > Pages**, selecione **Deploy from a branch**, a branch `main` e a pasta `/(root)`. O endereço será `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
